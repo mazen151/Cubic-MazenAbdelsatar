@@ -183,7 +183,7 @@ body {
   cursor: pointer;
 }
 
-@media screen and (min-width: 400px) and (max-width: 600px) {
+@media screen and (min-width: 100px) and (max-width: 600px) {
   .nav{
     height: 105px;
     border-bottom: 1px solid #ff8c00;
